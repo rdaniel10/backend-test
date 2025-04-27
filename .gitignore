@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files, build results, and
+# User-specific files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+*.dll
+*.exe
+*.log
+
+# Ignore publish output
+publish/
+
+# Ignore node_modules if any frontend later
+node_modules/
+
+# Ignore test results
+TestResults/
+
+# Others
+*.dbmdl
+*.bak
